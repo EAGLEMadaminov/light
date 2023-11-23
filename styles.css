@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.box {
+  width: 120px;
+  height: 320px;
+  background: #000;
+  margin: 100px auto;
+  padding: 20px;
+}
+.item {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background-color: grey;
+  margin: 10px 0px;
+}
+.red {
+  background: #f70000;
+}
+.yellow {
+  background: yellow;
+}
+.green {
+  background: rgb(8, 228, 8);
+}
